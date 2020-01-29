@@ -8,7 +8,7 @@ def square_array(array)
     
     array_new << square
     
-    array_new
+   return array_new
 end
       
 end
